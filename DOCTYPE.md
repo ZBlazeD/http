@@ -11,9 +11,14 @@
 	<p style=¨backgound-color: rgb(140, 208, 249);¨> hier kun je alle appstijls vinden
 	<br>
 		<wij hebben de volgende stijl:
-			<br>
-		-mac <br>
-		-samsung- <br>
-		-lg <br>
-		-
-		
+	<br>
+	- mac <br>
+	- samsung- <br>
+	- lg <br>
+	- oppo <br>
+	- sony <br>
+	- microsoft <br>
+</div>
+
+
+
