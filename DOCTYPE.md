@@ -6,11 +6,13 @@
 	
 	<title>appstyle</title>
 </head>
-<body>
+<body>́
+	<img src=¨iphone13.png̈¨>
 	<p style=¨backgound-color: khaki;¨>welkom op mijn appstijl
 	<p style=¨backgound-color: rgb(140, 208, 249);¨> hier kun je alle appstijls vinden
 	<br>
-		<wij hebben de volgende stijl:
+	<hi tyle=¨backgound-color: orchid;¨ <wij hebben de volgende stijl:
+	
 	<br>
 	- mac <br>
 	- samsung- <br>
