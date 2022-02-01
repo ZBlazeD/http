@@ -7,7 +7,9 @@
 	<title>appstyle</title>
 </head>
 <body>́
-	<img src=¨iphone13.png̈¨>
+	
+	<img src=¨iphone13.png¨ width=¨130¨ height=¨120¨>
+	<img src=¨iphone13.png¨ width=¨130¨ height=¨120¨>
 	<p style=¨backgound-color: khaki;¨>welkom op mijn appstijl
 	<p style=¨backgound-color: rgb(140, 208, 249);¨> hier kun je alle appstijls vinden
 	<br>
